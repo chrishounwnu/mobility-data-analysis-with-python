@@ -1,0 +1,12 @@
+contextily==1.5.0
+geopandas==0.13.0
+joblib==1.2.0
+matplotlib==3.7.1
+movingpandas==0.17.2
+numpy==1.22.3
+opacus==1.4.0
+pandas==2.0.1
+rdp==0.8
+scikit_learn==1.2.2
+torch==1.13.1
+tqdm==4.64.1
