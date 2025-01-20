@@ -1,5 +1,5 @@
-# Nautilus
-### Official Python implementation of the [Fed]Nautilus model, both centralized and federated learning versions, proposed in the paper "On Vessel Location Forecasting and the Effect of Federated Learning”, MDM Conference, 2024.
+
+### Official Python implementation of the Nautilus model, both centralized and federated learning versions, proposed in the paper "On Vessel Location Forecasting and the Effect of Federated Learning”, MDM Conference, 2024.
 
 
 # Installation 
@@ -159,23 +159,10 @@ python model-evaluation.py --data {brest_1800,brest_3600,piraeus_1800,piraeus_36
 ```
 
 
-# Contributors
-Andreas Tritsarolis; Department of Informatics, University of Piraeus
 
-Nikos Pelekis; Department of Statistics & Insurance Science, University of Piraeus
-
-Konstantina Bereta; Kpler
-
-Dimitris Zissis; Department of Product & Systems Design Engineering, University of the Aegean
-
-Yannis Theodoridis; Department of Informatics, University of Piraeus
 
 
 # Citation
 If you use [Fed]Nautilus in your project, we would appreciate citations to the following paper:
 
 > Andreas Tritsarolis, Nikos Pelekis, Konstantina Bereta, Dimitris Zissis, and Yannis Theodoridis. 2024. On Vessel Location Forecasting and the Effect of Federated Learning. In Proceedings of the 25th Conference on Mobile Data Management (MDM).
-
-
-# Acknowledgement
-This work was supported in part by the Horizon Framework Programme of the European Union under grant agreement No. 101070279 (MobiSpaces; https://mobispaces.eu). In this work, Kpler provided the Aegean AIS dataset and the requirements of the business case.
